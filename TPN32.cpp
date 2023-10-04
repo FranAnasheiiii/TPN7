@@ -17,7 +17,6 @@ public:
 };
 
 Ccirculo::Ccirculo() {
-    // Inicializa las variables a 0 en el constructor por defecto
     radio = 0;
     diametro = 0;
     superficie = 0;
